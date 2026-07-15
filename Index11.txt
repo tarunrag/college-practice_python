@@ -1,0 +1,795 @@
+Class 11
+=========
+
+print()
+========
+
+001 Message - Printing a Message
+
+002 Tab - Printing using Tab 
+
+003 Address - Name & Address 
+
+004 Contact - Printing Contact Details 
+
+005 BioData (Printing Bio-Data 
+
+006 Report - Admission Report 
+
+007 TabSet - How \t works
+
+008 String - Mathematical expressions using String
+
+009 Constant - Mathematical Expressions using Constants and Expressions
+
+
+Variables
+==========
+
+010 Variables - Mathematical Expressions Using Variables
+
+011 VarTypes  - Printing Different Types of Variable
+
+012 SalesAmt - Assign values to Variables and print Sales details. 
+
+013 TotPer - Assign values to Variables and print Student's Mark details. 
+
+
+
+input()
+==========
+
+
+014 InpArithmetic - Input two values and print all Arithmetic Expressions
+
+015 InpResults - Input two values and print results of all Arithmetic Expressions
+
+016 Cel2Far - Celcius to Fahrenheit (f = 1.8*c+32)
+
+017 Far2Cel - Fahrenheit to Celcius to (c=(f-32)/1.8)
+
+018 TotPer - Total & Percentage (pr=tt/(mx*5)*100)
+
+019 Simple - Simple Interest (s = p*n*r/100)
+
+020 SalesAmt - Sales Amount - sa = qt * (rt+tx)
+
+021 AreaVol - Area & Volume of Cylinder
+
+022 Char2Next - ASCII Value, Previous & Next Character
+
+023 ASCII2Char - ASCII Value to Character
+
+024 Swap - Swapping two values
+
+025 SplitDays - Input days and split into Year(s), Months(s) & Day(s)
+
+026 SplitSecs - Input seconds and split into Hours, Mins & Secs
+
+
+
+if
+====
+
+
+027 Result - Passed or Failed
+
+028 VotEligibility - Eligible  or NOT Eligible to Vote
+
+029 PosNeg - Neutral, Positive or Negative Value
+
+030 EvenOdd - Zero, Even or Odd Value
+
+031 Weekday - Weekday in words
+
+032 Digit - Digit in words
+
+033 LeapYear - Leap year or NOT (Divsible by 4 and Not Divisible by 100 OR Divisible by 400)
+
+034 ValTri - Valid Triangle
+
+035 Larg2Msg - Largest of two (Message)
+
+036 Larg3Val - Largest of three (Value)
+
+037 Larg3Msg - Largest of Three (Messages)
+
+038 SortABC (Input any three values and print them in Ascending Order
+
+039 DigAlpSpc - Digit, Alphabet or Special Character
+
+040 TempConv - Temperature conversion to the Required Unit
+	
+041 TotPerRes1 - Total, Percentage and Result (based on percentage)
+
+042 TotPerRes2 - Total, Percentage and Result (based on marks)
+
+043 TotPerGrd - Total, Percentage and Result (based on marks & percentage – Grade – F, C, B, A, A+)
+
+044 ProcCode - Input 2 Values and Process code & Print Result
+
+045 ArithOper - Input 2 Values and Arithmatic Operator & Print Result
+
+046 Wages - WAGE CALCULATION
+ 
+047 SalesAmt - Input Itemcode, Qty, Rate and Find Sales Amount
+
+048 TeleBill - Telephone Bill		
+
+
+if ... else, if ... elif ... else
+=================================
+
+049 Eligibility - Eligible or Not eligible to Vote
+
+050 NeuPosNeg - Neutral, Positive or Negative Value
+
+051 ZeroEveOdd - Zero, Even or Odd Value
+
+052 LeapYear - Leap year or NOT
+
+053 ValTri - Valid Triangle
+
+054 Month - Month in Words
+
+055 Larg3Val - Largest of three (Value)
+
+056 Larg3Msg - Largest of three (Message)
+
+057 DigAlpSp - Digit, Alphabet or Special Character
+
+058 TempConv - Temperature Conversion to the Required Unit
+
+059 TotPerGrd - Total, Percentage and Grade (based on marks and percentage -  Grade- F, C, B, A, A+)
+
+060 ArithOper - Input 2 values and an Arithmetic operator and print result
+
+061 NoDigits (Input an Integer (Max 5 digits) and Print Number of digits in the input value
+
+062 SalesAmt - Input Itemcode, Quantity, Rate and find Sales Amount
+
+063 Wages - Wage Calculation
+
+064 PaySlip - PaySlip Calculation and Printing
+
+Loops
+=========
+
+While
+========
+
+065 OneTo10 (Print numbers from 1 to 10)
+
+066 TenTo1 (Print numbers from 10 to 1)
+
+067 Oneto10Sum (Print numbers from 1 to 10 and Sum)
+
+068 Even15to80 (Print Even No.s 15 - 80)
+
+069 Odd75to10 (Print Odd No.s 75 - 10)
+
+070 Even45to95 (Print Even No.s 45 - 95 and count)
+
+071 OddAtoB (Print All Odd values between A and B)
+
+072 EvenAtoBCount (Print All Even values between A and B and their count)
+
+073 ValSqr (Print Value & Square value upto 10 in Tabular form)
+
+074 ValFact (Print Value & Factorial upto N in Tablular form)
+
+075 F15Fibo (Print First 15 values in Fibonacci series)
+
+FIBONACCI VALUES (FIRST 15 VALUES)
+
+0
+1
+1
+2
+3
+5
+ a   b = c
+-1 + 1 = 0
+ 1 + 0 = 1
+ 0 + 1 = 1
+ 1 + 1 = 2
+ 1 + 2 = 3
+ 2 + 3 = 5
+
+
+076 FiboN (Print all Fibonacci values up to N)
+
+FIBONACCI VALUES UPTO N
+
+Enter value for N: 10
+
+0
+1
+1
+2
+.
+.
+8
+
+077 MulTablofV (Input Value, Limit & print Multiplication Table with provisions to repeat)
+
+MULTIPLICATION TABLE OF INPUT VALUE
+
+Enter value: 7
+Enter Limit: 20
+
+7	*	1	= 7
+7	*	2	= 14
+7	*	3	= 21
+.
+.
+7	*	20	= 1400
+
+Try again y/n: ?
+
+
+
+078 MulTbl2to10 (Tables from 2 to 10 (Each Table 20 times)
+
+079 Factorial (Factorial of Input Integer value  with provisions to repeat)
+
+080 SumDgts (Input an Integer and find Sum of Digits
+
+081 NumDgts (Input an Integer and find No. Digits with repeat)
+
+082 RevrVal (Reversing an Integer into an Integer variable
+
+083 PrimeNot (Input an Integer and Print Prime or not with repeat)
+
+084 ArmsNot (Input an Integer and Print Armstrong or not with repeat)
+
+085 PrimeN (Print Prime numbers upto N)
+
+086 ArmsN (Print Armstrong numbers upto N)
+
+087 SumAvgN (Input N values and Find Sum & Average)
+
+088 LargeN (Input N values and Find Largest)
+
+089 LargSmal (Input N values and Find Largest & Smallest with repeat)
+
+
+090 Star1 (Star Pattern – 1
+
+
+STAR PATTERN 1
+
+No. lines to print: 5
+*
+* *
+* * *
+* * * *
+* * * * *
+
+
+091 Star2 (Star Pattern – 2
+
+STAR PATTERN 2
+
+No. lines to print: 5
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+
+092 Star3 (Star Pattern – 3 with repeat)
+
+STAR PATTERN 3
+ 
+No. lines to print: 5
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+
+
+093 Numb1 (Number Pattern – 1
+
+NUMBER PATTERN 1
+
+No. lines to print: 5
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+
+094 Numb2 (Number Pattern – 2
+
+NUMBER PATTERN 2
+
+No. lines to print: 5
+        1
+      2 1
+    3 2 1
+  4 3 2 1
+5 4 3 2 1
+
+
+095 Numb3 (Number Pattern – 3 with repeat)
+
+NUMBER PATTERN 3
+
+No. lines to print: 5
+        1
+      2 1 2
+    3 2 1 2 3
+  4 3 2 1 2 3 4
+5 4 3 2 1 2 3 4 5
+
+
+096 Alpha1 (Alphabetic Pattern – 1
+
+ALPHABETIC PATTERN 1
+
+No. lines to print: 5
+A
+A B
+A B C
+A B C D
+A B C D E
+
+
+097 Alpha2 (Alphabetic Pattern – 2
+
+ALPHABETIC PATTERN 2
+
+No. lines to print: 5
+        A
+      B A
+    C B A
+  D C B A
+E D C B A
+
+
+098 Alpha3 (Alphabetic Pattern – 3 with repeat)
+
+ALPHABETIC PATTERN 3
+
+No. lines to print: 5
+        A
+      B A B
+    C B A B C
+  D C B A B C D
+E D C B A B C D E
+
+
+
+099 TempMenu (Temperature Conversion – Menu Driven)
+
+TEMPERATURE CONVERSION – Menu Driven
+
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+Enter choice:
+
+.
+.
+.
+
+Check Again(y/n): 
+
+
+
+100 InterestMenu (Interest calculation – Menu Driven)
+
+INTEREST CALCULATION – Menu Driven
+
+1. Simple Interest
+2. Compound Interest
+3. Exit Program
+
+Enter choice(1-3):
+
+
+
+101 IntManiptMenu (Integer Manipulations – Menu Driven)
+
+INTEGER MANIPULATIONS – Menu Driven
+
+1. Sum of Digits
+2. Number of Digits
+3. Reversing
+4. Exit Program
+
+Enter choice(1-4):
+
+
+
+
+For
+====
+
+102 1to10 - 1 to 10
+
+103 10to1 - 10 to 1
+
+104 1to10Sum - 1 to 10 and Sum
+
+105 OddNos75to10 - Odd No.s (75-10) and count
+
+106 EvenNosAtoB	- All Even values between A and B and their count
+
+107 ValFactTo10	- Value & Factorial upto 10 in Tablular form
+
+108 FiboN - First N values in Fibonacci series
+
+109 MulTableRepeat - Make provisions to repeat printing Multiplication table
+
+110 MulTable2to10 - Tables from 2 to 10 (Each Table 20 times)
+
+111 Factorial	- Factorial of Input Integer value with repeat
+
+112 PrimeOrNot	- Input an Integer and Print Prime or not
+ 
+113  PrimeN	- Print Prime numbers upto N with repeat
+
+114 SumAvgN	- Input N values and Find Sum & Average
+
+115 LargSmallN	- Input N values and Find Largest & Smallest with repeat
+
+116 Star1	- Star Pattern - 1
+
+117 Number2	- Number Pattern - 2 with repeat
+
+118 Alpha3	- Alphabet Pattern - 3 with repeat
+
+119 Special1	- Special Pattern 1
+
+SPECIAL PATTERN 1
+
+Enter no. of lines to print: 4
+
+& & & & & & & 
+  & & & & &
+    & & &
+      &
+n	2n - 1
+5	9
+4	7
+3	5
+2	3
+1	1
+
+120 Special2	- Special Pattern 2 with repeat
+
+SPECIAL PATTERN 1
+
+Enter no. of lines to print: 6
+
+     &
+    & &
+   &   &
+  &     &
+ &       &
+& & & & & &
+
+
+121 Floyds - Floyd’s Triangle
+		
+FLOYD'S TRIANGLE
+
+Enter Last value:  18
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+16 17 18
+
+
+
+122 BitForm	- Bit form pattern with repeat
+		
+BIT FORM PATTERN
+
+Enter no. of lines to print: 5
+
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+
+
+
+123 SerSum1	- Series & sum (1^2 + 3^2 + 5^2 .... till n terms
+
+124 SerSum2	- Series & sum (1 + x + x^2 + x^3 .... till x^n
+
+125 SerSum3	- Series & sum (2/9 - 5/13 + 8/17 .... till n terms with repeat
+
+126 SerSum4	- Series & sum (1 + 1/1! + 1/2! + 1/3! .... 1/n!) with repeat
+
+127 SerSum5  – Series & sum (x - x^2/2! + x^3/3! - x^4/4! .... till x^n/n!) with repeat 
+
+
+
+
+
+
+String
+==========
+
+Without using inbuilt Functions
+**********************************************
+
+128 Printing  – Assign your name to a variable and Print String
+
+Character Wise...
+
+Character Wise...Using Index
+
+
+Character Wise...Using Negative Index
+
+In Reverse...
+
+In Reverse...Using Negative index
+
+
+129 LineByLine – Input a string and Print Words line by line
+
+130 Salutation  – Input Name, Gendet(M/F) & Marital Status(M/U) and Print Mr./Miss./Mrs. based on Sex & Marital Status
+
+131 VowelCount  – Input a String & Print no. vowels (In Detail)
+
+
+
+132 CharCount  – Input a String & Print count of Alphabets(Upper case & Lower case), Spaces & Total no. characters
+
+
+133 WordCount  – Input a String and Print no. words
+
+134 Copy  - Copying a String
+
+135 Upperlower - Input String & Print the String in Upper and lower case
+
+136 Concatenate  – Concatenation
+
+
+137 Reverse  – Reversing a String
+
+138 PalindromeOrNot  – Check Palindrome or Not
+
+139 ReversingWords  – Reversing words in a sentence
+
+140 WordPrint  – Input String and a letter & Print all words starting with the given character
+
+141 LargeWord  – Input String & Print largest word in the String
+
+
+Using inbuilt Functions
+**********************************************
+
+142 DigAlpSpc – Digit, Alphabet or Special Character 
+
+143 Cases – Different Case Functions
+
+144 Trim  – Triming Spaces
+
+145 Pattern1  – Pattern 1
+
+PATTERN 1
+
+Enter the String: Manoj
+
+Manoj
+Mano
+Man
+Ma
+M
+
+
+146 Pattern2  – Pattern 2
+
+PATTERN 2
+
+Enter the String: Manoj
+
+    M
+   Ma
+  Man
+ Mano
+Manoj
+
+
+147 Join  – Join
+
+148 Split  – Split
+
+149 Occurrences  – Number of Occurrences
+
+
+150 Search  – Searching
+
+151 Slice  – Slicing
+
+152 Replace  – replacing word in a string
+
+REPLACING
+
+Enter the String: This is real fun !
+
+Enter Substring to Replace: is
+
+Enter Substring to Replace with: much
+
+After replacing: This is much fun !
+
+Repeat(y/n): n
+
+
+
+
+
+List
+=====
+
+Assigning
+****************
+
+153	ListTypes  – Initialise lists to store rollno, name, height of 5 students. Also create a mixed list, an empty list and a Nested list. Print all Lists too
+
+DIFFERENT TYPES OF LIST
+
+Empty List  : []
+Roll numbers: [14, 21, 23, 28, 29]
+Names       : ['Adithya', 'Arjun', 'Athul', 'Gautham', 'Harishankar']
+Heights     : [5.6, 6.2, 5.5, 5.9, 6.1]
+Mixed List  : [14, 'Adithya', 5.6, 21, 'Arjun', 6.2]
+Nested List : [[14. 'Adithya', 5.6], [21, 'Arjun', 6.2]]
+
+
+154	IntList – Initialise Integer list and Print
+
+INTEGER LIST
+
+Full List: [13, 40, 22, 11, 25]
+
+Second Element: 40
+
+Full List Element wise...
+13 40 22 11 25
+
+Full List Index wise...
+13 40 22 11 25
+
+
+155	ListSumAvgLgSm – Initialise Integer list and Print the following
+
+LIST ELEMENT WISE WITH SUM, AVERAGE, LARGEST AND SMALLEST VALUES
+
+Full List Element wise...
+13 40 22 11 25
+
+Sum    : 111
+Average: 22.2
+
+Largest Value :  40
+Smallest Value:  11
+
+
+156	TeleBills - Create a list of two or more Telephone Subscribers and Print their respective telephone bills - [Teleno1, Name1, Lmr1, Pmr1,  Teleno1, Name1, Lmr1, Pmr1,  . . . ]
+
+Telephone Bill
+==============
+
+Number: -----------             Name         : ---------
+
+L.M.R : -----------             Total Calls  :		
+P.M.R : -----------             Free Calls   : 100
+                                Calls Charged: ---------
+
+Call Charges:
+Fixed Rent  :  180              Tax @ 12%    : ---------
+
+Total Amount:  -----------/- Rs.
+
+
+Telephone Bill
+==============
+
+Number: -----------             Name         : ---------
+
+L.M.R : -----------             Total Calls  :		
+P.M.R : -----------             Free Calls   : 100
+                                Calls Charged: ---------
+
+Call Charges:
+Fixed Rent  :  180              Tax @ 12%    : ---------
+
+Total Amount:  -----------/- Rs.
+
+
+Inputting
+*************
+
+
+157	InpList – Input N number of Integer values to a list and Print the following
+
+INPUT N ELEMENTS IN LIST
+
+Enter value for N: 5
+
+Enter 5 values...
+Value 1: 13
+Value 2: 40
+Value 3: 22
+Value 4: 11
+Value 5: 25
+
+Full List...
+13 40 22 11 25
+
+Prime No.s in List...
+13 11
+
+
+158	InpListDirect - Input an Integer list directly and Print the following creating two lists, Even and Odd lists from the main list
+
+ODD AND EVEN VALUES IN LIST
+
+Enter elements for list within [ ]: [10, 15, 24, 32, 17, 5]
+
+Even List: [10, 24, 32]
+
+Odd List: [15, 17, 5]
+
+
+159	OddEven – Input an Integer list and Print the following
+
+ODD AND EVEN VALUES IN LIST
+
+Enter values for list: 10, 15, 24, 32, 17, 5
+
+Full List...
+10 15 24 32 17 5
+
+Even Elements in List...
+10 24 32
+
+Odd Elements in List...
+15 17 5
+
+
+160	GradePoints – Create a list of Grade points by inputting and Print the list, average value, print elements below or equal to average value and elements above average value value
+
+GRADE POINT LIST
+
+Enter Grade points: 5.11, 5.5, 6.2, 6.0, 5.2, 5.4, 6.5
+
+Average Grade Point is: 5.70
+
+Below or Equal to Average
+5.11    5.50     5.20     5.40
+
+Above Average
+6.20     6.00     6.50
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+

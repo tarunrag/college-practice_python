@@ -1,0 +1,19 @@
+print("FIBONACCI VALUES UPTO N\n")
+
+n = int(input("Enter value for N: "))
+print()
+
+a = -1
+b = 1
+c = 0
+while c <= n:
+    print(c)
+    a = b
+    b = c
+    c = a + b
+print()
+
+a, b = -1, 1
+while a+b <= n:
+    print(a+b)
+    a, b = b, a+b

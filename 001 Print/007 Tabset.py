@@ -1,0 +1,15 @@
+print("TAB SETTING\n")
+print("1234567812345678123456781234567812345678")
+print("A"+"\t""B"+"\t""C"+"\t""D"+"\t"+"E")
+print("10"+"\t""Rajesh"+"\t""XII"+"\t""A"+"\t"+"92.5")
+print("P1"+"\t""Pen"+"\t""Black ink"+"\t"+"25")
+print("1001"+"\t""Rajendran"+"\t""Savings"+"\t"+"10000")
+
+print()
+print("TAB SETTING\n")
+print("1234567812345678123456781234567812345678")
+print("A\tB\tC\tD\tE")
+print("10\tRajesh\tXII\tA\t92.5")
+print("P1\tPen\tBlack ink\t25")
+print("1001\tRajendran\tSavings\t10000")
+
